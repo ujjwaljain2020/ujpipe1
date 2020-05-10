@@ -1,0 +1,17 @@
+{
+    "productId": "prd_Fresca",
+    "contractId": "ctr_1-1NC95D",
+    "groupIds": [
+        166849
+    ],
+    "environments": [
+        "ak2",
+        "ak3"
+    ],
+    "version": "0.4.0",
+    "isSecure": true,
+    "edgeGridConfig": {
+        "section": "papi"
+    },
+    "name": "ujpipe1"
+}

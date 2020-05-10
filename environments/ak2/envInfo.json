@@ -1,0 +1,85 @@
+{
+    "name": "ak2",
+    "propertyName": "ak2.ujpipe1",
+    "groupId": 166849,
+    "isSecure": true,
+    "propertyId": 617368,
+    "latestVersionInfo": {
+        "propertyVersion": 1,
+        "updatedByUser": "2rsdhrqjz6yoh7ck",
+        "updatedDate": "2020-05-03T15:17:54Z",
+        "productionStatus": "ACTIVE",
+        "stagingStatus": "ACTIVE",
+        "etag": "f12f151d998a59d8236d6b14df7d9c8a3993f4dd",
+        "productId": "prd_Fresca",
+        "ruleFormat": "v2020-03-04"
+    },
+    "suggestedRuleFormat": "v2020-03-04",
+    "environmentHash": "53c7d039bfda3979231c2ab6b76b88c7bcf0371c1f97c2b1c5ed160d39a7c770",
+    "ruleTreeHash": "c80ad66c16f3d80b87a13e40e191cad78945c69b14f98f3b995192a404bbe833",
+    "lastValidatedHash": "53c7d039bfda3979231c2ab6b76b88c7bcf0371c1f97c2b1c5ed160d39a7c770",
+    "lastSaveWarnings": [
+        {
+            "type": "https://problems.luna.akamaiapis.net/papi/v0/validation/validation_message.ssl_custom_warning_test_staging",
+            "errorLocation": {
+                "template": "templates/main.json",
+                "variables": [],
+                "location": "rules/behaviors/0",
+                "value": {
+                    "name": "origin",
+                    "options": {
+                        "cacheKeyHostname": "ORIGIN_HOSTNAME",
+                        "compress": true,
+                        "enableTrueClientIp": true,
+                        "forwardHostHeader": "ORIGIN_HOSTNAME",
+                        "hostname": "origin-web.urbancrawlapp.com",
+                        "httpPort": 80,
+                        "httpsPort": 443,
+                        "originSni": true,
+                        "originType": "CUSTOMER",
+                        "verificationMode": "CUSTOM",
+                        "originCertificate": "",
+                        "ports": "",
+                        "trueClientIpHeader": "True-Client-IP",
+                        "trueClientIpClientSetting": false,
+                        "customValidCnValues": [
+                            "{{Origin Hostname}}",
+                            "{{Forward Host Header}}",
+                            "www.urbancrawlapp.com"
+                        ],
+                        "originCertsToHonor": "STANDARD_CERTIFICATE_AUTHORITIES",
+                        "standardCertificateAuthorities": [
+                            "akamai-permissive",
+                            "THIRD_PARTY_AMAZON"
+                        ]
+                    }
+                }
+            },
+            "detail": "If you are changing your `Origin Server` SSL Certificate Verification settings it is strongly recommended that you test on Staging before activating on Production. Failure to test on Staging may result in a service outage."
+        }
+    ],
+    "lastSaveErrors": [],
+    "lastSavedHash": "53c7d039bfda3979231c2ab6b76b88c7bcf0371c1f97c2b1c5ed160d39a7c770",
+    "lastSaveHostnameErrors": [],
+    "lastSavedHostnamesHash": "6d80c28d0474b1d5d0b39ce2abb6252fcf8b51f9f7116e7390fca49801a211db",
+    "activeIn_STAGING_Info": {
+        "propertyVersion": 1,
+        "updatedByUser": "2rsdhrqjz6yoh7ck",
+        "updatedDate": "2020-05-03T15:17:54Z",
+        "productionStatus": "ACTIVE",
+        "stagingStatus": "ACTIVE",
+        "etag": "f12f151d998a59d8236d6b14df7d9c8a3993f4dd",
+        "productId": "prd_Fresca",
+        "ruleFormat": "v2020-03-04"
+    },
+    "activeIn_PRODUCTION_Info": {
+        "propertyVersion": 1,
+        "updatedByUser": "2rsdhrqjz6yoh7ck",
+        "updatedDate": "2020-05-03T15:17:54Z",
+        "productionStatus": "ACTIVE",
+        "stagingStatus": "ACTIVE",
+        "etag": "f12f151d998a59d8236d6b14df7d9c8a3993f4dd",
+        "productId": "prd_Fresca",
+        "ruleFormat": "v2020-03-04"
+    }
+}

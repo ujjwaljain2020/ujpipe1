@@ -1,0 +1,9 @@
+[
+    {
+        "cnameFrom": "ak3.ujjwaljain.com",
+        "cnameTo": "ak.ujjwaljain.com.edgekey.net",
+        "cnameType": "EDGE_HOSTNAME",
+        "edgeHostnameId": 4448526,
+        "ipVersionBehavior": "IPV6_COMPLIANCE"
+    }
+]
