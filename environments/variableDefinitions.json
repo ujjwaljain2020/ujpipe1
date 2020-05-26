@@ -11,6 +11,11 @@
         "sureRouteTestObject": {
             "type": "url",
             "default": "/akamai/sure-route-test-object.html"
+        },
+        "defaultCSSJSTTL":{
+            "type":"string",
+            "default": "10d"
+
         }
     }
 }

@@ -5,19 +5,19 @@
     "isSecure": true,
     "propertyId": 617369,
     "latestVersionInfo": {
-        "propertyVersion": 1,
+        "propertyVersion": 2,
         "updatedByUser": "2rsdhrqjz6yoh7ck",
-        "updatedDate": "2020-05-03T15:19:18Z",
-        "productionStatus": "ACTIVE",
-        "stagingStatus": "ACTIVE",
-        "etag": "d0a5b7e16fe6b44561d6f35f6ba6748e6fe943c3",
+        "updatedDate": "2020-05-26T14:27:39Z",
+        "productionStatus": "INACTIVE",
+        "stagingStatus": "INACTIVE",
+        "etag": "d129de15b867edd1eb9e05c9dc13b06697eb3325",
         "productId": "prd_Fresca",
         "ruleFormat": "v2020-03-04"
     },
     "suggestedRuleFormat": "v2020-03-04",
-    "environmentHash": "53c7d039bfda3979231c2ab6b76b88c7bcf0371c1f97c2b1c5ed160d39a7c770",
-    "ruleTreeHash": "c80ad66c16f3d80b87a13e40e191cad78945c69b14f98f3b995192a404bbe833",
-    "lastValidatedHash": "53c7d039bfda3979231c2ab6b76b88c7bcf0371c1f97c2b1c5ed160d39a7c770",
+    "environmentHash": "fad98719de2801ef4ef939db4a96f88775139d0c337edfa9b483a7cb83e9b837",
+    "ruleTreeHash": "5170037651a0ce2731ee1c38a836a3922011c62d3485d146ba629e79db868866",
+    "lastValidatedHash": "fad98719de2801ef4ef939db4a96f88775139d0c337edfa9b483a7cb83e9b837",
     "lastSaveWarnings": [
         {
             "type": "https://problems.luna.akamaiapis.net/papi/v0/validation/validation_message.ssl_custom_warning_test_staging",
@@ -59,7 +59,7 @@
         }
     ],
     "lastSaveErrors": [],
-    "lastSavedHash": "53c7d039bfda3979231c2ab6b76b88c7bcf0371c1f97c2b1c5ed160d39a7c770",
+    "lastSavedHash": "fad98719de2801ef4ef939db4a96f88775139d0c337edfa9b483a7cb83e9b837",
     "lastSaveHostnameErrors": [],
     "lastSavedHostnamesHash": "5fe2d8d4b6f66b89538bfd07226b8d6ba10bdcf61ac43a437edd6fd8bfeb973c",
     "activeIn_STAGING_Info": {
