@@ -3,7 +3,7 @@
         "name": "default",
         "children": [
             "#include:performance.json",
-            "#include:Offload.json"      
+            "#include:Offload.json"
         ],
         "behaviors": [
             {
@@ -55,6 +55,6 @@
             "is_secure": true
         },
         "variables": [],
-        "comments": "The behaviors in the Default Rule apply to all requests for the property hostname(s) unless another rule overrides the Default Rule settings."
+        "comments": " behaviors in the Default Rule apply to all requests for the property hostname(s) unless another rule overrides the Default Rule settings."
     }
 }
