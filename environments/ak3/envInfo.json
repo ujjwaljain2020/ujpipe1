@@ -5,19 +5,19 @@
     "isSecure": true,
     "propertyId": 617369,
     "latestVersionInfo": {
-        "propertyVersion": 3,
+        "propertyVersion": 4,
         "updatedByUser": "2rsdhrqjz6yoh7ck",
-        "updatedDate": "2020-05-26T15:01:55Z",
-        "productionStatus": "ACTIVE",
-        "stagingStatus": "ACTIVE",
-        "etag": "981ccef63bd21bd9ce882844f9e156346b0bf3a3",
+        "updatedDate": "2020-06-03T20:40:59Z",
+        "productionStatus": "INACTIVE",
+        "stagingStatus": "PENDING",
+        "etag": "10f50112a7f5bfe8ef876aefdee80b58b0cf90b3",
         "productId": "prd_Fresca",
         "ruleFormat": "v2020-03-04"
     },
     "suggestedRuleFormat": "v2020-03-04",
-    "environmentHash": "ccb17222f4702ea263e61f3030947c00530e8b2a66825868c7c4a0e906fc637a",
-    "ruleTreeHash": "23da1761214ecc85f3e2b2f90bc5d8c0e3b9b3078cc82bd58f6761dcd20e9341",
-    "lastValidatedHash": "ccb17222f4702ea263e61f3030947c00530e8b2a66825868c7c4a0e906fc637a",
+    "environmentHash": "fac7cad53c9192e77727c2ec68f0f9feac66c1f8d994d383cd7392841f9a5b19",
+    "ruleTreeHash": "937a66a19c1ccdd4baef7c2adfba35cf51d2fc14a54a3fd3daed9099926744f9",
+    "lastValidatedHash": "fac7cad53c9192e77727c2ec68f0f9feac66c1f8d994d383cd7392841f9a5b19",
     "lastSaveWarnings": [
         {
             "type": "https://problems.luna.akamaiapis.net/papi/v0/validation/validation_message.ssl_custom_warning_test_staging",
@@ -59,7 +59,7 @@
         }
     ],
     "lastSaveErrors": [],
-    "lastSavedHash": "ccb17222f4702ea263e61f3030947c00530e8b2a66825868c7c4a0e906fc637a",
+    "lastSavedHash": "fac7cad53c9192e77727c2ec68f0f9feac66c1f8d994d383cd7392841f9a5b19",
     "lastSaveHostnameErrors": [],
     "lastSavedHostnamesHash": "5fe2d8d4b6f66b89538bfd07226b8d6ba10bdcf61ac43a437edd6fd8bfeb973c",
     "activeIn_STAGING_Info": {
@@ -81,5 +81,8 @@
         "etag": "981ccef63bd21bd9ce882844f9e156346b0bf3a3",
         "productId": "prd_Fresca",
         "ruleFormat": "v2020-03-04"
+    },
+    "pendingActivations": {
+        "STAGING": 8560152
     }
 }
