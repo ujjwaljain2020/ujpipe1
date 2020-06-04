@@ -5,19 +5,19 @@
     "isSecure": true,
     "propertyId": 617369,
     "latestVersionInfo": {
-        "propertyVersion": 4,
+        "propertyVersion": 5,
         "updatedByUser": "2rsdhrqjz6yoh7ck",
-        "updatedDate": "2020-06-03T20:41:02Z",
-        "productionStatus": "PENDING",
-        "stagingStatus": "ACTIVE",
-        "etag": "10f50112a7f5bfe8ef876aefdee80b58b0cf90b3",
+        "updatedDate": "2020-06-04T18:00:27Z",
+        "productionStatus": "INACTIVE",
+        "stagingStatus": "PENDING",
+        "etag": "2008ce74e3256a6fe304cd44f0ba1d169390f994",
         "productId": "prd_Fresca",
         "ruleFormat": "v2020-03-04"
     },
     "suggestedRuleFormat": "v2020-03-04",
-    "environmentHash": "fac7cad53c9192e77727c2ec68f0f9feac66c1f8d994d383cd7392841f9a5b19",
-    "ruleTreeHash": "937a66a19c1ccdd4baef7c2adfba35cf51d2fc14a54a3fd3daed9099926744f9",
-    "lastValidatedHash": "fac7cad53c9192e77727c2ec68f0f9feac66c1f8d994d383cd7392841f9a5b19",
+    "environmentHash": "4b5505323835cfdc7af81cc8cb073edfbd3bcc027442d9f14f089e1d3caef490",
+    "ruleTreeHash": "c61e3e34eb8fb581d5200bccdc10e39a0d33217ea71f2976b394c7eb0e1d2173",
+    "lastValidatedHash": "4b5505323835cfdc7af81cc8cb073edfbd3bcc027442d9f14f089e1d3caef490",
     "lastSaveWarnings": [
         {
             "type": "https://problems.luna.akamaiapis.net/papi/v0/validation/validation_message.ssl_custom_warning_test_staging",
@@ -59,30 +59,30 @@
         }
     ],
     "lastSaveErrors": [],
-    "lastSavedHash": "fac7cad53c9192e77727c2ec68f0f9feac66c1f8d994d383cd7392841f9a5b19",
+    "lastSavedHash": "4b5505323835cfdc7af81cc8cb073edfbd3bcc027442d9f14f089e1d3caef490",
     "lastSaveHostnameErrors": [],
     "lastSavedHostnamesHash": "5fe2d8d4b6f66b89538bfd07226b8d6ba10bdcf61ac43a437edd6fd8bfeb973c",
     "activeIn_STAGING_Info": {
         "propertyVersion": 4,
         "updatedByUser": "2rsdhrqjz6yoh7ck",
         "updatedDate": "2020-06-03T20:41:02Z",
-        "productionStatus": "PENDING",
+        "productionStatus": "ACTIVE",
         "stagingStatus": "ACTIVE",
         "etag": "10f50112a7f5bfe8ef876aefdee80b58b0cf90b3",
         "productId": "prd_Fresca",
         "ruleFormat": "v2020-03-04"
     },
     "activeIn_PRODUCTION_Info": {
-        "propertyVersion": 3,
+        "propertyVersion": 4,
         "updatedByUser": "2rsdhrqjz6yoh7ck",
-        "updatedDate": "2020-05-26T15:01:55Z",
+        "updatedDate": "2020-06-03T20:41:02Z",
         "productionStatus": "ACTIVE",
-        "stagingStatus": "DEACTIVATED",
-        "etag": "981ccef63bd21bd9ce882844f9e156346b0bf3a3",
+        "stagingStatus": "ACTIVE",
+        "etag": "10f50112a7f5bfe8ef876aefdee80b58b0cf90b3",
         "productId": "prd_Fresca",
         "ruleFormat": "v2020-03-04"
     },
     "pendingActivations": {
-        "PRODUCTION": 8561211
+        "STAGING": 8564940
     }
 }
