@@ -8,7 +8,7 @@
         "propertyVersion": 5,
         "updatedByUser": "2rsdhrqjz6yoh7ck",
         "updatedDate": "2020-06-03T20:37:27Z",
-        "productionStatus": "INACTIVE",
+        "productionStatus": "ACTIVE",
         "stagingStatus": "ACTIVE",
         "etag": "b9415f9ee6c023c2b10ed32a18ae5098c5d8f1bb",
         "productId": "prd_Fresca",
@@ -66,19 +66,19 @@
         "propertyVersion": 5,
         "updatedByUser": "2rsdhrqjz6yoh7ck",
         "updatedDate": "2020-06-03T20:37:27Z",
-        "productionStatus": "INACTIVE",
+        "productionStatus": "ACTIVE",
         "stagingStatus": "ACTIVE",
         "etag": "b9415f9ee6c023c2b10ed32a18ae5098c5d8f1bb",
         "productId": "prd_Fresca",
         "ruleFormat": "v2020-03-04"
     },
     "activeIn_PRODUCTION_Info": {
-        "propertyVersion": 4,
+        "propertyVersion": 5,
         "updatedByUser": "2rsdhrqjz6yoh7ck",
-        "updatedDate": "2020-05-26T14:59:25Z",
+        "updatedDate": "2020-06-03T20:37:27Z",
         "productionStatus": "ACTIVE",
-        "stagingStatus": "DEACTIVATED",
-        "etag": "60512f6beabac23e1fbcac5286851c7cdf1d54ff",
+        "stagingStatus": "ACTIVE",
+        "etag": "b9415f9ee6c023c2b10ed32a18ae5098c5d8f1bb",
         "productId": "prd_Fresca",
         "ruleFormat": "v2020-03-04"
     }
