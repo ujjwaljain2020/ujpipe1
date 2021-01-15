@@ -7,9 +7,9 @@
     "latestVersionInfo": {
         "propertyVersion": 5,
         "updatedByUser": "2rsdhrqjz6yoh7ck",
-        "updatedDate": "2020-06-04T18:00:27Z",
+        "updatedDate": "2020-06-04T18:07:04Z",
         "productionStatus": "INACTIVE",
-        "stagingStatus": "PENDING",
+        "stagingStatus": "ACTIVE",
         "etag": "2008ce74e3256a6fe304cd44f0ba1d169390f994",
         "productId": "prd_Fresca",
         "ruleFormat": "v2020-03-04"
@@ -63,12 +63,12 @@
     "lastSaveHostnameErrors": [],
     "lastSavedHostnamesHash": "5fe2d8d4b6f66b89538bfd07226b8d6ba10bdcf61ac43a437edd6fd8bfeb973c",
     "activeIn_STAGING_Info": {
-        "propertyVersion": 4,
+        "propertyVersion": 5,
         "updatedByUser": "2rsdhrqjz6yoh7ck",
-        "updatedDate": "2020-06-03T20:41:02Z",
-        "productionStatus": "ACTIVE",
+        "updatedDate": "2020-06-04T18:07:04Z",
+        "productionStatus": "INACTIVE",
         "stagingStatus": "ACTIVE",
-        "etag": "10f50112a7f5bfe8ef876aefdee80b58b0cf90b3",
+        "etag": "2008ce74e3256a6fe304cd44f0ba1d169390f994",
         "productId": "prd_Fresca",
         "ruleFormat": "v2020-03-04"
     },
@@ -77,12 +77,9 @@
         "updatedByUser": "2rsdhrqjz6yoh7ck",
         "updatedDate": "2020-06-03T20:41:02Z",
         "productionStatus": "ACTIVE",
-        "stagingStatus": "ACTIVE",
+        "stagingStatus": "DEACTIVATED",
         "etag": "10f50112a7f5bfe8ef876aefdee80b58b0cf90b3",
         "productId": "prd_Fresca",
         "ruleFormat": "v2020-03-04"
-    },
-    "pendingActivations": {
-        "STAGING": 8564940
     }
 }
